@@ -1,0 +1,7 @@
+{
+    "port": 5500,
+    "server": {
+      "baseDir": "."
+    },
+    "browser": ["google chrome"]
+  }
